@@ -35,18 +35,18 @@ And now, pursuing a major in Graphics and Multimedia Software is my way of turni
 
 ## 📫 Contact
 
-📧 amuzhaffar1@gmail.com // muzhaffar@graduate.utm.my
+📧 amuzhaffar1@gmail.com // muzhaffar@graduate.utm.my  
 Instagram: @farrymuzhaffar  
 
 ---
 
 ## 📚 Education
 
-**🎓 [Universiti Teknologi Malaysia]** (2024 - 2028)
+**🎓 [Universiti Teknologi Malaysia]** (2024 - 2028)  
 *Bachelor of Computer Science (Graphics and Multimedia Software)*
 - Relevant Courses: -
 
-**🎓 [Universiti Teknologi Malaysia]** (2023 - 2024)
+**🎓 [Universiti Teknologi Malaysia]** (2023 - 2024)  
 *UTMSpace Bridging Programme*
   
 **🏫 [Sekolah Menengah Atas (SMA) Negeri 3 Padang, Indonesia]** (2020-2023)
