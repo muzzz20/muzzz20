@@ -27,7 +27,7 @@ And now, pursuing a major in Graphics and Multimedia Software is my way of turni
 
 **Quick note:** You'll see my full name as Ahmad Muzhaffar in official contexts, but actually I go by **Farry** in daily life. But to make things not more complicated, feel free to just call me Ahmad or Muzhaffar. It's a lot easier for everyone, I guess :) (I also don't know why I'm named like this; just ask my parents) 
 
-- 🎓 **Education**: [Universiti Teknologi Malaysia] - [Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours] (2024-2028)
+- 🎓 **Education**: Universiti Teknologi Malaysia - Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours (2024-2028)
   
 - 📍 **Location**: Padang, Indonesia / Johor Bahru, Malaysia
 
