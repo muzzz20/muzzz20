@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 As an international student from Indonesia, my journey into computer science was sparked by a lifelong interest for gaming. I've always been captivated by how code and creativity merge to create immersive digital worlds. I see games as the ultimate art form—blending storytelling, visual art, music, and technology. 
 And now, pursuing a major in Graphics and Multimedia Software is my way of turning my gaming passion into professional expertise—learning to build the very experiences that first inspired me.
 
+**Quick note:** You'll see my full name as Ahmad Muzhaffar in official contexts, but actually I go by **Farry** in daily life. But to make things not more complicated, feel free to just call me Ahmad or Muzhaffar. It's a lot easier for everyone, I guess :) (I also don't know why I'm named like this; just ask my parents) 
+
 - 🎓 **Education**: [Universiti Teknologi Malaysia] - [Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours] (2024-2028)
   
 - 📍 **Location**: Padang, Indonesia / Johor Bahru, Malaysia
@@ -33,9 +35,8 @@ And now, pursuing a major in Graphics and Multimedia Software is my way of turni
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amuzhaffar1@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzhaffar@graduate.utm.my)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farrymuzhaffar)
+📧 amuzhaffar1@gmail.com // muzhaffar@graduate.utm.my
+Instagram: @farrymuzhaffar  
 
 ---
 
