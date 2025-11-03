@@ -51,7 +51,6 @@ Instagram: @farrymuzhaffar
   
 **🏫 Sekolah Menengah Atas (SMA) Negeri 3 Padang, Indonesia** (2020-2023)  
 **🏫 Sekolah Menengah Pertama Islam Terpadu (SMPIT) Adzkia, Padang, Indonesia** (2017-2020)  
-**🏫 Sekolah Menengah Pertama Islam Terpadu (SMPIT) Adzkia, Padang, Indonesia** (2017-2020)
 
 ---
 <!--
