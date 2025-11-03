@@ -1,4 +1,5 @@
-## Hi there 👋
+<!--
+## Hi there 👋 I'm Ahmad Muzhaffar Prihantony
 
 <!--
 **muzzz20/muzzz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,93 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋 I'm Ahmad Muzhaffar Prihantony ![Profile Views](https://komarev.com/gh/views?username=yourusername&color=blue)
+
+---
+
+## 👋 About Me
+
+As an international student from Indonesia, my journey into computer science was sparked by a lifelong interest for gaming. I've always been captivated by how code and creativity merge to create immersive digital worlds. I see games as the ultimate art form—blending storytelling, visual art, music, and technology. 
+And now, pursuing a major in Graphics and Multimedia Software is my way of turning my gaming passion into professional expertise—learning to build the very experiences that first inspired me.
+
+- 🎓 **Education**: [Universiti Teknologi Malaysia] - [Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours] (2024-2028)
+  
+- 📍 **Location**: [Padang, Indonesia] [Johor Bahru, Malaysia]
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amuzhaffar1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzhaffar@graduate.utm.my)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farrymuzhaffar)
+
+---
+
+## 📚 Education
+
+**🎓 [Universiti Teknologi Malaysia]** (2024 - 2028)
+*Bachelor of Computer Science (Graphics and Multimedia Software)*
+- Relevant Courses: -
+
+**🎓 [Universiti Teknologi Malaysia]** (2023 - 2024)
+*UTMSpace Bridging Programme*
+  
+**🏫 [Sekolah Menengah Atas (SMA) Negeri 3 Padang, Indonesia]** (2020-2023)
+
+---
+<!--
+## 🏆 Achievements & Experience
+
+### **Competitions & Awards**
+- 🥇 [Award Name] - [Competition/Event] (Year)
+- 🥈 [Award Name] - [Competition/Event] (Year)
+- 📜 [Certificate Name] - [Issuing Organization] (Year)
+
+### **Projects**
+- **[Project Name](https://github.com/yourusername/repo)** - Brief description
+- **[Project Name](https://github.com/yourusername/repo)** - Brief description
+
+### **Leadership & Roles**
+- [Role] - [Organization] (Year)
+- [Role] - [Organization] (Year)
+
+---
+
+## 💡 Soft Skills
+
+| Skill | Description |
+|-------|-------------|
+| **Time Management** | Using Eisenhower Matrix to prioritize tasks effectively |
+| **Communication** | Building mutual understanding with clear, steady approach |
+| **Teamwork** | Focusing on positive values to benefit the team |
+| **Adaptability** | Implementing new knowledge in real-life applications |
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+![Languages](https://skillicons.dev/icons?i=html,css,js,cpp,java,python&theme=light)
+
+### **Tools & Technologies**
+![Tools](https://skillicons.dev/icons?i=git,github,blender,figma,ps,ai&theme=light)
+
+### **Currently Learning**
+- 🔭 **Working on**: [Current Project/Language]
+- 🌱 **Learning**: [New Skills/Tools]
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+
+</div>
