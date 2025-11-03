@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm Ahmad Muzhaffar Prihantony ![Profile Views](https://komarev.com/gh/views?username=yourusername&color=blue)
+## Hi there 👋 I'm Ahmad Muzhaffar Prihantony 
 
 ---
 
