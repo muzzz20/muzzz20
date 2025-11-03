@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 About Me
+## About Me
 
 As an international student from Indonesia, my journey into computer science was sparked by a lifelong interest for gaming. I've always been captivated by how code and creativity merge to create immersive digital worlds. I see games as the ultimate art form—blending storytelling, visual art, music, and technology. 
 And now, pursuing a major in Graphics and Multimedia Software is my way of turning my gaming passion into professional expertise—learning to build the very experiences that first inspired me.
 
 - 🎓 **Education**: [Universiti Teknologi Malaysia] - [Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours] (2024-2028)
   
-- 📍 **Location**: [Padang, Indonesia] [Johor Bahru, Malaysia]
+- 📍 **Location**: Padang, Indonesia / Johor Bahru, Malaysia
 
 ---
 
