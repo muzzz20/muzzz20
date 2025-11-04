@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ## Hi there 👋 I'm Ahmad Muzhaffar Prihantony 
+</div>
 
----
 
 ## About Me
 
