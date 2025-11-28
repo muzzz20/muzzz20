@@ -43,7 +43,6 @@ Instagram: @farrymuzhaffar
 
 **🎓 Universiti Teknologi Malaysia** (2024 - 2028)  
 *Bachelor of Computer Science (Graphics and Multimedia Software) With Honours*
-- Relevant Courses: -
 
 **🎓 Universiti Teknologi Malaysia** (2023 - 2024)  
 *UTMSpace Bridging Programme*
