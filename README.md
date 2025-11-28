@@ -35,7 +35,7 @@ And now, pursuing a major in Graphics and Multimedia Software is my way of turni
 ## 📫 Contact
 
 📧 amuzhaffar1@gmail.com // muzhaffar@graduate.utm.my  
-Instagram: @farrymuzhaffar  
+Instagram: @farrymuzhaffar 
 
 ---
 
@@ -49,7 +49,6 @@ Instagram: @farrymuzhaffar
 *UTMSpace Bridging Programme*
   
 **🏫 Sekolah Menengah Atas (SMA) Negeri 3 Padang, Indonesia** (2020-2023)  
-**🏫 Sekolah Menengah Pertama Islam Terpadu (SMPIT) Adzkia, Padang, Indonesia** (2017-2020)  
 
 ---
 <!--
